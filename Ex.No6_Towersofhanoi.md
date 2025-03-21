@@ -33,7 +33,5 @@ To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG.
 ![image](https://github.com/user-attachments/assets/6463f42a-27b7-4fa5-aef6-010443235e76)
 
 
-
-
 ### Result:
 Thus the solution of Towers of Hanoi problem was found by logic programming.
