@@ -36,6 +36,7 @@ Write a mini-max search algorithm to find the optimal value of MAX Player from t
       print(minimax(0, 0, True, scores, treeDepth))
 
 
+
 ### Output:
 
 ![image](https://github.com/user-attachments/assets/348a3b89-c563-47fd-974b-3b63ab06681e)
