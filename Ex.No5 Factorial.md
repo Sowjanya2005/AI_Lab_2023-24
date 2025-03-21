@@ -11,6 +11,7 @@ To  write  a logic program for finding the factorial of given number using SWI-P
 5. STEP 3: Run the program  to find answer of  query.
 6. STEP 4: Stop the program.
 
+
 ### Program:
 
     factorial(0,1).
