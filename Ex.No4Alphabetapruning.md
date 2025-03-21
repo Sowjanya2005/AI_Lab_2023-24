@@ -16,6 +16,7 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
 
 ### Program:
 
+
     # Initial values of Alpha and Beta
     MAX, MIN = 1000, -1000
     # Returns optimal value for current player
