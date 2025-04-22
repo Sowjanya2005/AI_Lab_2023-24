@@ -1,5 +1,5 @@
 # Ex.No: 7  Logic Programming –  Logic Circuit Design
-### DATE:                                                                            
+### DATE: 15/04/2025                                                                         
 ### REGISTER NUMBER : 212222060250
 ### AIM: 
 To write a logic program to design a circuit like half adder and half subtractor.
